@@ -1,0 +1,24 @@
+.container {
+  min-height: 80vh;
+  min-width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  background-color: whitesmoke;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  text-align: center;
+  font-size: 38pt;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.5px;
+  line-height: 1.26;
+  color: #343E47;
+}
